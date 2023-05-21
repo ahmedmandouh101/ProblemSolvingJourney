@@ -1,0 +1,21 @@
+# ninja log v5
+1	3034	7004835883403617	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+3038	4469	7004835897662595	miniMaxSum.exe	2f10de3abe0bddf0
+7	3329	7004837698996663	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+3330	4677	7004837712433685	miniMaxSum.exe	2f10de3abe0bddf0
+11	3146	7004839000229358	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+3147	4491	7004839013648233	miniMaxSum.exe	2f10de3abe0bddf0
+6	2725	7004841073865334	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+2726	4102	7004841087611141	miniMaxSum.exe	2f10de3abe0bddf0
+7	3048	7004844059437715	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+3049	4489	7004844073849851	miniMaxSum.exe	2f10de3abe0bddf0
+3	2024	7004850214382275	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+2024	2723	7004850221347284	miniMaxSum.exe	2f10de3abe0bddf0
+4	2006	7004851155814061	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+2006	2807	7004851163789803	miniMaxSum.exe	2f10de3abe0bddf0
+4	1773	7004854422681219	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+1774	2446	7004854429386295	miniMaxSum.exe	2f10de3abe0bddf0
+3	1740	7004855045551443	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+1740	2491	7004855053031836	miniMaxSum.exe	2f10de3abe0bddf0
+4	1751	7004856017775346	CMakeFiles/miniMaxSum.dir/main.cpp.obj	41415b47a3633a96
+1751	2583	7004856026073098	miniMaxSum.exe	2f10de3abe0bddf0

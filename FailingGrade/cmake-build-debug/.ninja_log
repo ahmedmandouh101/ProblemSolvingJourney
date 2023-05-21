@@ -1,0 +1,7 @@
+# ninja log v5
+0	3095	7004827317617560	CMakeFiles/FailingGrade.dir/main.cpp.obj	b4e911dd721ab97a
+3101	4473	7004827331342745	FailingGrade.exe	dd67a3a038312f7b
+4	3086	7004827872947020	CMakeFiles/FailingGrade.dir/main.cpp.obj	b4e911dd721ab97a
+3087	4480	7004827886877254	FailingGrade.exe	dd67a3a038312f7b
+13	3145	7004828270002623	CMakeFiles/FailingGrade.dir/main.cpp.obj	b4e911dd721ab97a
+3146	4526	7004828283822294	FailingGrade.exe	dd67a3a038312f7b

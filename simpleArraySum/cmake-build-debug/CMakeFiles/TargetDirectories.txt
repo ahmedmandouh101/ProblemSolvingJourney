@@ -1,0 +1,3 @@
+C:/Users/CM/CLionProjects/simpleArraySum/cmake-build-debug/CMakeFiles/simpleArraySum.dir
+C:/Users/CM/CLionProjects/simpleArraySum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CM/CLionProjects/simpleArraySum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

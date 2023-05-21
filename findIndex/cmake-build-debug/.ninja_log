@@ -1,0 +1,19 @@
+# ninja log v5
+0	3988	7004793977865771	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+3995	5556	7004793993488069	findIndex.exe	a2af87f1f54e11ac
+6	3023	7004794587253824	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+3024	4335	7004794600343878	findIndex.exe	a2af87f1f54e11ac
+7	3098	7004795672205633	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+3099	4571	7004795686881167	findIndex.exe	a2af87f1f54e11ac
+5	2949	7004796888109968	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+2950	4298	7004796901502412	findIndex.exe	a2af87f1f54e11ac
+8	2926	7004797343382771	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+2927	4418	7004797358279083	findIndex.exe	a2af87f1f54e11ac
+7	3269	7004800269992110	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+3269	4104	7004800278310627	findIndex.exe	a2af87f1f54e11ac
+4	2951	7004801607422706	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+2952	4559	7004801623527550	findIndex.exe	a2af87f1f54e11ac
+5	2694	7004803792464409	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+2695	4082	7004803806327512	findIndex.exe	a2af87f1f54e11ac
+7	3299	7004805369004610	CMakeFiles/findIndex.dir/main.cpp.obj	69f73654fddf7b38
+3300	4690	7004805382825694	findIndex.exe	a2af87f1f54e11ac
